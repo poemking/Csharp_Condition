@@ -1,0 +1,7 @@
+D:\Ptactice\WinProj_0719\WinProj_0719\bin\Debug\WinProj_0719.exe
+D:\Ptactice\WinProj_0719\WinProj_0719\bin\Debug\WinProj_0719.pdb
+D:\Ptactice\WinProj_0719\WinProj_0719\obj\x86\Debug\WinProj_0719.Form1.resources
+D:\Ptactice\WinProj_0719\WinProj_0719\obj\x86\Debug\WinProj_0719.Properties.Resources.resources
+D:\Ptactice\WinProj_0719\WinProj_0719\obj\x86\Debug\WinProj_0719.csproj.GenerateResource.Cache
+D:\Ptactice\WinProj_0719\WinProj_0719\obj\x86\Debug\WinProj_0719.exe
+D:\Ptactice\WinProj_0719\WinProj_0719\obj\x86\Debug\WinProj_0719.pdb
